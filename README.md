@@ -17,5 +17,5 @@ This folder contains time-series data for Mouse1 (Takayasu, L. et al., bioRxiv, 
 Code/
 
 This folder includes Jupyter notebooks for data analysis and simulations:
-・data_analysis.ipynb: Generates figures for species abundance distributions, Taylor's law, and logarithmic growth rate distribution.
-・simulation.ipynb: Implements simulations of the random multiplication model and an extended version incorporating spatial diffusion.
+- data_analysis.ipynb: Generates figures for species abundance distributions, Taylor's law, and logarithmic growth rate distribution.
+- simulation.ipynb: Implements simulations of the random multiplication model and an extended version incorporating spatial diffusion.
